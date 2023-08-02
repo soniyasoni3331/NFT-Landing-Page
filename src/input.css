@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Comfortaa&family=Courgette&family=Gruppo&family=Montserrat&family=Open+Sans&family=Oswald&family=Pangolin&family=Poppins:wght@300&family=Source+Code+Pro:wght@300&family=Ysabeau+Infant:ital,wght@1,100&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
